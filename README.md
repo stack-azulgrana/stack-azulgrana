@@ -17,7 +17,7 @@ Actualmente soy estudiante avanzado de la carrera Analista Programador Universit
 
 ## 🛠️ Tecnologías y Herramientas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,docker" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,docker,linux,nestjs,tailwind" />
 </p>
 
 ---
