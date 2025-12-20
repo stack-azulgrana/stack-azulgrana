@@ -1,7 +1,8 @@
 # ¡Hola! Soy Nahuel 👋
 
-### 🚀 Desarrollador Fullstack / Estudiante avanzado de la carrera Analista Programador Universitario
+### 🚀 Desarrollador Fullstack / Estudiante 
 Me apasiona crear soluciones tecnológicas que marquen la diferencia. Actualmente estoy enfocado en perfeccionar mis habilidades en **React** y **Nodejs**.
+Actualmente soy estudiante avanzado de la carrera Analista Programador Universitario
 
 ---
 
