@@ -39,7 +39,7 @@ Aquí puedes ver un resumen de mi actividad y las colaboraciones que he realizad
 ---
 
 ## 🤝 Contribuciones Recientes
-- [Proyecto A](link): Implementación de mejora en la UI.
+- [Proyecto Agenda-Unju](https://github.com/jesus-dev-rodriguez/agenda-unju): Desarrollo de la aplicacion.
 - [Proyecto B](link): Corrección de bug en el motor de búsqueda.
 
 ---
