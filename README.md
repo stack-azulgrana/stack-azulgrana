@@ -1,14 +1,14 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Nahuel 👋
 
 ### 🚀 Desarrollador [Tu Rol: Fullstack / Backend / Estudiante]
-Me apasiona crear soluciones tecnológicas que marquen la diferencia. Actualmente estoy enfocado en perfeccionar mis habilidades en **[Tecnología 1]** y **[Tecnología 2]**.
+Me apasiona crear soluciones tecnológicas que marquen la diferencia. Actualmente estoy enfocado en perfeccionar mis habilidades en **React** y **Nodejs**.
 
 ---
 
 ## 👨‍💻 Sobre mí
 - 🔭 **Actualmente trabajando en:** [Nombre del proyecto o empresa]
 - 🌱 **Aprendiendo:** [Curso o tecnología actual]
-- 👯 **Busco colaborar en:** Proyectos de código abierto relacionados con [Tema]
+- 👯 **Busco colaborar en:** Proyectos de código abierto relacionados con React o Nextjs
 - 💬 **Pregúntame sobre:** [Tus áreas de experiencia]
 - 📫 **Cómo contactarme:** [Tu Email o LinkedIn]
 
@@ -16,7 +16,7 @@ Me apasiona crear soluciones tecnológicas que marquen la diferencia. Actualment
 
 ## 🛠️ Tecnologías y Herramientas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,docker" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,docker" />
 </p>
 
 ---
@@ -25,14 +25,14 @@ Me apasiona crear soluciones tecnológicas que marquen la diferencia. Actualment
 Aquí puedes ver un resumen de mi actividad y las colaboraciones que he realizado:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stack-azulgrana&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&langs_count=7&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stack-azulgrana&layout=compact&langs_count=7&theme=radical" />
 </p>
 
 ### 📈 Racha de Contribuciones
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stack-azulgrana&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
