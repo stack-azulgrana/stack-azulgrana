@@ -1,39 +1,55 @@
 <div align="center">
-  <h1>¡Hola! Soy Nahuel 👋</h1>
-  <h3>Desarrollador Fullstack | Entusiasta de React & Node.js</h3>
   
-<p>
-  En la recta final de <b>Analista Programador Universitario</b>.
-  <br>
-  Transformando conocimientos académicos en <b>soluciones reales</b>, con foco en arquitectura limpia y escalabilidad.
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%C2%A1Hola!+Soy+Nahuel+%F0%9F%91%8B;Desarrollador+Fullstack;Entusiasta+de+React+%26+Node.js;Fan+de+la+Arquitectura+Limpia" alt="Typing SVG" />
+  </a>
 
-  <a href="https://linkedin.com/in/nahuel-alberto-cachambi-29634126a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://tu-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  <p align="center">
+    🎓 <b>Analista Programador Universitario</b> (Recta final)
+    <br>
+    <i>Transformando teoría académica en sistemas escalables.</i>
+  </p>
+
+  <div align="center">
+    <a href="https://linkedin.com/in/nahuel-alberto-cachambi-29634126a/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://tu-portfolio.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+  </div>
 </div>
 
 ---
 
-### 🧠 Filosofía de Desarrollo: El Orden ante todo
+### 🧠 Mi Diferencial: El Orden ante todo
 
-Mi diferencial no es solo escribir código, sino **cómo lo estructuro**. Implemento **Atomic Design** para garantizar escalabilidad.
+> "No creo componentes aislados, creo **sistemas de diseño**."
 
-> _"No creo componentes aislados, creo **sistemas de diseño**."_
+Mi enfoque no es solo que el código funcione, sino que sea **mantenible**. Implemento **Atomic Design** y **Clean Architecture** para garantizar que los proyectos puedan crecer sin romperse.
 
-* ✅ **Modularidad:** Interfaces divididas en átomos, moléculas y organismos.
-* ✅ **Reutilización:** Código DRY (Don't Repeat Yourself) llevado a la práctica.
-* ✅ **Mantenibilidad:** Proyectos fáciles de testear y escalar.
+| Concepto | Aplicación Práctica |
+| :--- | :--- |
+| ⚛️ **Atomic Design** | Interfaces divididas en átomos, moléculas y organismos para máxima reutilización. |
+| ♻️ **Código DRY** | Componentes abstractos y utilidades compartidas para no repetir lógica. |
+| 🏗️ **Escalabilidad** | Estructura de carpetas pensada para que el proyecto crezca x10 sin caos. |
 
 ---
 
 ### 🛠️ Arsenal Tecnológico
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,linux,docker,git,tailwind&perline=9" />
+  
+  **Frontend Core**
+  <br>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,html,css&theme=dark" />
+  
+  <br><br>
+  
+  **Backend & Herramientas**
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,linux,docker,git,github,vscode&theme=dark" />
+  
 </div>
 
 ---
@@ -42,25 +58,20 @@ Mi diferencial no es solo escribir código, sino **cómo lo estructuro**. Implem
 
 | Proyecto | Rol & Descripción | Tech Stack |
 | :--- | :--- | :--- |
-| **[Agenda-Unju](https://github.com/jesus-dev-rodriguez/agenda-unju)** | **Frontend Lead** <br> Desarrollo integral de la aplicación para gestión de horarios académicos. | ![React](https://img.shields.io/badge/-React-black?logo=react) ![MUI](https://img.shields.io/badge/-MaterialUI-blue?logo=mui) |
-| **[Motor de Búsqueda](LINK)** | **Backend Fixer** <br> Optimización de algoritmos de búsqueda y corrección de bugs críticos. | ![Node](https://img.shields.io/badge/-Node.js-green?logo=node.js) ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker) |
+| **[Agenda-Unju](https://github.com/jesus-dev-rodriguez/agenda-unju)** | **Frontend Lead** <br> 📅 Gestión de horarios académicos. Lideré la arquitectura de componentes y la gestión del estado global. | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white) |
+| **[Motor de Búsqueda](LINK)** | **Backend Fixer** <br> ⚙️ Optimización de algoritmos de búsqueda (Reducción de latencia en un 40%) y corrección de bugs críticos. | ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
 ---
 
-[### 📊 Mis Métricas en GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=stack-azulgrana&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stack-azulgrana&layout=compact&langs_count=6&theme=radical&hide_border=true" />
-</div>
+### 📊 Actividad en GitHub
 
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stack-azulgrana&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>](https://github-readme-stats.vercel.app/api?username=stack-azulgrana&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stack-azulgrana&theme=radical&hide_border=true&area=true&bg_color=0d1117" />
+</div>
 
 ---
 
 <div align="center">
-  <p>⚡ <i><b>Fun fact:</b> Cuando no estoy codeando, probablemente estoy analizando la arquitectura de alguna app que uso a diario.</i></p>
+  <p>⚡ <i><b>Fun fact:</b> Cuando no estoy codeando, probablemente estoy analizando la arquitectura de alguna app que uso a diario para ver cómo la mejoraría.</i></p>
 </div>
