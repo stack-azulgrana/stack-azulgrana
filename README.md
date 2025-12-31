@@ -47,7 +47,7 @@ Mi diferencial no es solo escribir código, sino **cómo lo estructuro**. Implem
 
 ---
 
-### 📊 Mis Métricas en GitHub
+[### 📊 Mis Métricas en GitHub
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=stack-azulgrana&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
@@ -57,7 +57,7 @@ Mi diferencial no es solo escribir código, sino **cómo lo estructuro**. Implem
 <div align="center">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stack-azulgrana&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+</div>](https://github-readme-stats.vercel.app/api?username=stack-azulgrana&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
 
 ---
 
